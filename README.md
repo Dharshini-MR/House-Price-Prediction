@@ -84,14 +84,11 @@ house-price-prediction/
 ├── predictions_vs_actual.png
 │
 ├── visualization/
-│   ├── 01_feature_distributions.png
-│   ├── 02_price_by_categories.png
-│   ├── 03_predictions_vs_actual.png
-│   ├── 04_residual_plot.png
-│   └── 05_feature_importance.png
-│
-├── test_predictions.csv
-└── model_comparison_cv.csv
+   ├── 01_feature_distributions.png
+   ├── 02_price_by_categories.png
+   ├── 03_predictions_vs_actual.png
+   ├── 04_residual_plot.png
+   └── 05_feature_importance.png
 ```
 
 ## Installation
